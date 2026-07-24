@@ -22,14 +22,14 @@
 - Data Structures & Algorithms
 
 ## 📈 GitHub Stats
-![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshpatil96k&show_icons=true)
 
 ## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpatil96k&layout=compact)
 
 ## 🌐 Connect With Me
 - GitHub:https://github.com/jayeshpatil96k
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://linkedin.com/in/jayeshpatil000
 - Email:patiljayesh5787@gmail.com
 
 ---
