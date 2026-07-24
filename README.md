@@ -28,7 +28,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ## 🌐 Connect With Me
-- GitHub:https://github.com/jayeshpatil96k/jayeshpatil96k
+- GitHub:https://github.com/jayeshpatil96k
 - LinkedIn: Add your LinkedIn profile here
 - Email:patiljayesh5787@gmail.com
 
