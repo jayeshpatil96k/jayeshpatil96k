@@ -22,7 +22,7 @@
 - Data Structures & Algorithms
 
 ## 📈 GitHub Stats
-![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshpatil96k&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshpatil96k&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpatil96k&layout=compact)
