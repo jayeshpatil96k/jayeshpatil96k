@@ -21,9 +21,10 @@
 - REST APIs
 - Data Structures & Algorithms
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshpatil96k&show_icons=true&theme=tokyonight)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jayeshpatil96k&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayeshpatil96k&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpatil96k&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🔥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpatil96k&layout=compact)
 
